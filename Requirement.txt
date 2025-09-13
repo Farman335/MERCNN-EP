@@ -1,0 +1,12 @@
+**Details about model development, libraries, and reproducibility the proposed work**
+1)	Development Environment: The model was implemented using PyCharm 2024 and   Python 3.6.3.
+2)	Key Libraries and Versions: The following major libraries and their versions were utilized, ensuring the reproducibility of the computational environment:
+•	biopython 1.85
+•	numpy 1.26.4
+•	pandas 2.2.3
+•	scikit-learn 1.6.1
+•	scipy 1.15.1
+•	tensorflow 2.18.0
+•	torch 2.5.1
+•	keras 3.8.0
+•	matplotlib 3.10.0
